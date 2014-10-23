@@ -1,0 +1,21 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+body { font-family: "NewsCycleRegular"; }
+
+form.box input,
+form.box select,
+form.box textarea,
+form.box button,
+form.short input,
+form.short select,
+form.short textarea,
+form.short button,
+.searchbox input { font-family: inherit; }
+
+body {
+	font-size: 15px;
+	line-height: 20px; 
+}
+
+.button-default, 
+.mod-box-default .button-default { line-height: 34px; }

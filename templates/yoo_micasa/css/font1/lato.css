@@ -1,0 +1,19 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+body { font-family: "LatoRegular"; }
+
+form.box input,
+form.box select,
+form.box textarea,
+form.box button,
+form.short input,
+form.short select,
+form.short textarea,
+form.short button,
+.searchbox input { font-family: inherit; }
+
+.frontpage-teaser-1 p, 
+.frontpage-teaser-2 p, 
+.frontpage-teaser-3 p { font-size: 17px; }
+
+ul.footer-icons li { font-size: 14px; }
